@@ -22,7 +22,7 @@ Transform your server with engaging delivery events! Players collect and deliver
 - 1.20.1
 - 1.20.2
 - 1.20.4
-
+- 1.21.4
 ### Requirements
 - **Java:** 17+
 - **Optional:** Vault (economy), PlaceholderAPI (placeholders)
